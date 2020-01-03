@@ -1,0 +1,1 @@
+# Simple CRA to test Github Actions workflow
