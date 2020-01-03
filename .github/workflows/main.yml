@@ -22,8 +22,6 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
-        with:
-          name: build
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
         with:
